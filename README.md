@@ -8,3 +8,5 @@ In order to open the source code and edit it, open the .py python script.
 If you want to turn your edited version into a .exe application, you should use auto_py_to_exe which you can find here:
 
 https://pypi.org/project/auto-py-to-exe/
+
+Edit: If your antivirus gets in the way, please turn it off. I swear on god im not trying to hack anyone.
